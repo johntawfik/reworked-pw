@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <!-- Background: same color as your site (#222) -->
+  <rect width="100" height="100" fill="#222"/>
+  <!-- Text: monospaced style letter "J" in a light color -->
+  <text 
+    x="50" 
+    y="70" 
+    font-family="Consolas, 'Courier New', monospace" 
+    font-size="70" 
+    fill="#F8F8F2" 
+    text-anchor="middle">
+    J
+  </text>
+</svg>
